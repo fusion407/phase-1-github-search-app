@@ -6,8 +6,24 @@
 
 #github-container {
   display: flex;
+  justify-content: center;
+  height: 200px;
+  width: 200px;
+}
+#userTitle {
+  display: flex;
+  justify-content: center;
 }
 
 ul {
   list-style: none;
+}
+img {
+  display: flex;
+  justify-content: center;
+  width: auto; 
+  max-height: 100%; 
+}
+repo {
+  
 }
